@@ -1,6 +1,6 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-
+Git has a mutable index called stage.
 Notepad++ 7.2.2 bug-fixes:
 
 1.  Fix auto-updater setting toggles between startups bug.
